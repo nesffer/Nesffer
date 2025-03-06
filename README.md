@@ -14,12 +14,6 @@
 </p>
 
 <p align="center">
-  🐧 안녕하세요 🐧<br />
-  백엔드 개발자 신지민입니다.<br />
-  건강하고 즐겁게 개발하는 걸 목표로 하고 있습니다.<br />
-</p><br />
-
-<p align="center">
 <!--   <img src="https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=HTML5"> -->
 <!--   <img src="https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=CSS3"> -->
   <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript">
